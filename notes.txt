@@ -1,0 +1,3 @@
+When you deploy react on a traditonal web server shared by multiple applications, it is better to use hash router
+
+When you deploy react to a cloud platform, it is better to use browser router.
